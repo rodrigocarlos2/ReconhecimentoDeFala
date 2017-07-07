@@ -1,0 +1,10 @@
+H = 13;
+
+%Quantidade de neur?nios na camada de Saida Out
+Out = 1;
+
+%Definindo a taxa de aprendizagem - Valor Eta.
+eta = 0.000082;
+
+%Quantidade de Épocas
+Epocas = 7900;

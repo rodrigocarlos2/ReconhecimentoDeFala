@@ -1,0 +1,11 @@
+%Quantidade de neur?nios na camada Escondida H
+H = 12;
+
+%Quantidade de neur?nios na camada de Saida Out
+Out = 1;
+
+%Definindo a taxa de aprendizagem - Valor Eta.
+eta = 0.0000835;
+
+%Quantidade de Épocas
+Epocas = 800;
